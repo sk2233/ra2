@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.10" tiledversion="1.10.2" orientation="staggered" renderorder="right-down" width="100" height="120" tilewidth="64" tileheight="32" infinite="0" staggeraxis="y" staggerindex="odd" nextlayerid="6" nextobjectid="22">
+ <tileset firstgid="1" source="../tile/main.tsx"/>
+ <layer id="1" name="l1" width="100" height="120">
+  <data encoding="base64" compression="zlib">
+   eJzt18FqwzAUAEH7kPz/J/caCiltsaRVPIc5Ptm8BRmfx3GcizxerHoH9KjSo0WPFj1a9GjRo0WPFj1a9GjRo0WPFj1a9GjRo0WPFj1a9GjRo0WPFj1a9GjRo0WPFj1a9GjRo0WPFj1aRvXQt9dDk0YPd2Brd49B597B1Xv73kKPXg9N9NjVjO+HJnrsavT/hyZ67GzkrjTRY3ej96RJp8dTj1wPTRo9noceM3r8Za+a6LG7kT1em7yb1WR+j59m9Zjb4zfzmuhRNbuHJnrsZEWPK8/5NJUeq/dQsarHf559B4Ueq3dQsrLHecH8p1ndAz3K9GjRo0WPFj1a9GjRo0WPFj1a9GjRo0WPFj1a9GjRo0WPFj1a9GjRo0WPFj1a9NibHi16tOjRokeLHi16tOjRokeLHi16tOjRokeLHi16tOjRokeLHi16AAAAAAAAAMA9fAE6BjmU
+  </data>
+ </layer>
+ <layer id="2" name="l2" width="100" height="120" offsetx="0" offsety="-32">
+  <data encoding="base64" compression="zlib">
+   eJzt1jEKgEAMRNGgsOv9T2yl4BaWZoT3TjDwi6QKAAAAAAAAAAAAAAAAcozuAdxG6ZFklCYpRumRZO2hSS898miSZW1x9M6hnj325i1okUiP773danfje/6nHLP0SLOVJkn0yHM1IcPsHgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPBjJ0QCATw=
+  </data>
+ </layer>
+ <layer id="3" name="l3" width="100" height="120" offsetx="0" offsety="-64">
+  <data encoding="base64" compression="zlib">
+   eJzt1kEKgEAMBMGgsOv/X+xBENmzmAGrXjDQh6QKAAAAAAAAAAAAAAAAcozuAdxG6ZFklCYpRumRZO2hSS898qw9jt45v/dssTdv4aJHFi3yuBvf8z9lmaVJkq30SKNJFj3yzO4BAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8IITjG4BAA==
+  </data>
+ </layer>
+ <layer id="4" name="l4" width="100" height="120" offsetx="0" offsety="-96">
+  <data encoding="base64" compression="zlib">
+   eJzt1jEKhEAQRNF2Bd37n1gmUEQm70Lfg8kLftBTBQAAAAAAAAAAAAAAADm27gFcttIjyWixlCYJzhZ6ZLj30KTXs8V4/9ZF3zbrsbYu+i4tsszuhh49Zi3cjT7+VDn20iLNr/RIcvbQIsdookeOvXsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8DoHdpkA0w==
+  </data>
+ </layer>
+ <objectgroup id="5" name="unit">
+  <object id="13" name="苏联基地车" type="unit" x="3325.16" y="863.8">
+   <point/>
+  </object>
+ </objectgroup>
+</map>
